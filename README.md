@@ -1,3 +1,5 @@
+![CI](https://github.com/kadirou12333/prompt-injection-toolkit/actions/workflows/ci.yml/badge.svg)
+
 # Prompt Injection Toolkit (PIT)
 
 ```
