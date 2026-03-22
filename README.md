@@ -1,4 +1,4 @@
-![CI](https://github.com/kadirou12333/prompt-injection-toolkit/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/kadirou12333/prompt-injection-toolkit/actions/workflows/ci.yml/badge.svg?branch=master)
 
 # Prompt Injection Toolkit (PIT)
 
